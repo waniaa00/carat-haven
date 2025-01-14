@@ -18,7 +18,7 @@ const Hero = () => {
             <p className="leading-relaxed mb-8">
               Experience the allure of extraordinary diamonds at Carat Haven.
               Discover a curated selection of exquisite gemstones, each a
-              masterpiece of nature's artistry. Find the perfect diamond for any
+              masterpiece of nature&apos;s artistry. Find the perfect diamond for any
               occasion, from timeless classics to contemporary designs. Let us
               guide you on a journey of brilliance.
             </p>
