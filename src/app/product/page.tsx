@@ -1,5 +1,6 @@
 'use client'
 import React from 'react'
+import Image from "next/image"
 
 const Product = () => {
   return (
@@ -23,7 +24,7 @@ const Product = () => {
                 style={{ animationDelay: `${index * 0.1}s` }}
               >
                 <a className="block relative h-48 rounded overflow-hidden transform hover:scale-105 transition-transform duration-300">
-                  <img
+                  <Image
                     alt={`product ${index + 1}`}
                     className="object-cover object-center w-full h-full block"
                     src={product.src}
