@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image"
 
 const SingleProduct = () => {
   return (
@@ -67,7 +68,7 @@ const SingleProduct = () => {
                 </button>
               </div>
             </div>
-            <img
+            <Image
               alt="ecommerce"
               className="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded"
               src="./images/producti.jpg"
