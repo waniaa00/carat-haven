@@ -10,7 +10,7 @@ const Contact = () => {
         Contact Us
       </h1>
       <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-      If you need any assistance, please don't hesitate to contact us!
+      If you need any assistance, please do not hesitate to contact us!
       </p>
     </div>
     <div className="lg:w-1/2 md:w-2/3 mx-auto">
