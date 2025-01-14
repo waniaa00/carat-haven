@@ -19,10 +19,10 @@ const About = () => {
               unparalleled prestige. Their brilliance, durability, and rarity
               have captivated hearts and minds for centuries, making them a
               symbol of timeless beauty and enduring value. When it comes to
-              acquiring diamonds, understanding the concept of "pure quality" is
-              paramount. It encompasses a set of characteristics that define a
-              diamond's exceptional nature and contributes to its overall
-              desirability.
+              acquiring diamonds, understanding the concept of &quot;pure
+              quality&quot; is paramount. It encompasses a set of
+              characteristics that define a diamond&apos;s exceptional nature
+              and contributes to its overall desirability.
             </p>
             <span className="inline-block h-1 w-10 rounded bg-indigo-500 mt-8 mb-6" />
             <h2 className="text-white font-medium title-font tracking-wider text-sm">
@@ -33,7 +33,6 @@ const About = () => {
         </div>
       </section>
     </div>
-    
   );
 };
 
